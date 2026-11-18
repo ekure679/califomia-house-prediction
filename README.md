@@ -1,5 +1,6 @@
 
 #California House Price Prediction
+
 This repository contains a machine learning project that predicts median house values in California districts using the classic California Housing Dataset.
 
 Project Overview
